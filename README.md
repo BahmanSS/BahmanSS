@@ -1,7 +1,6 @@
 # Hi, I'm Sergey! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 ## I am a student of St. Petersburg State University (programming and information technology) and a novice developer.
 
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-4EAA25?style=for-the-badge&logo=gnu-make&logoColor=white)
@@ -18,3 +17,5 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 [![codewars](https://www.codewars.com/users/Bahman_S/badges/large)](https://www.codewars.com/users/Bahman_S)  
+
+<img src="https://raw.githubusercontent.com/BahmanSS/BahmanSS/output/snake.svg" alt="Snake animation" />
